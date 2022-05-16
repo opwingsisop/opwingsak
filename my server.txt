@@ -1,0 +1,3 @@
+ "ip":"opwingsop0.aternos.me"
+ "port":"14094"
+ "name"opwings"
